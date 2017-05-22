@@ -182,36 +182,39 @@ DocBlockr可成为你文档化代码的高效工具。输入/ **，然后按Tab�
 
 ## 再来一波实用插件
 
-[Sublime SFTP](http://wbond.net/sublime_packages/sftp)
-[CTags](https://github.com/SublimeText/CTags) - CTags支持Sublime.
-[SideBarEnhancement](https://github.com/titoBouzout/SideBarEnhancements) - 在侧边栏的上下文菜单中有许多附加功能。
-[ActualVim](https://github.com/lunixbochs/actualvim) - Sublime中的Vim - 集两个最喜欢的编辑器于一体。
-[SublimeLinter](http://github.com/SublimeLinter/SublimeLinter) - C/C ++，Java，Python，PHP，JS，HTML，CSS等的内联lint高亮。
-[CSScomb](https://github.com/csscomb/sublime-csscomb) - CSS编码风格格式器。
-[FixMyJS](https://github.com/jshint/fixmyjs), [Jsfmt](https://github.com/paulirish/sublime-jsfmt) and [JsFormat](https://github.com/jdc0589/JsFormat) - JS / JSON的编码风格格式器。
-[AStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter) - C / C ++ / C＃/ Java编码风格格式器。
-[SVG-Snippets](https://github.com/jorgeatgu/SVG-Snippets) - 设置自定义的SVG片段。
-[Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value) - 增加/减少数字，日期，十六进制颜色值，等等。
-[Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - 高亮尾部的空格，并在瞬间将其删除。
-[Alignment](http://wbond.net/sublime_packages/alignment) - 多行选择和多项选择超简单的对齐。
-[Placeholders](https://github.com/mrmartineau/Placeholders) - 文字，图片，列表，表格等的片段集合。
-[ApplySyntax](https://github.com/facelessuser/ApplySyntax) - 快速检测语法。
-[StylToken](https://github.com/vcharnahrebel/style-token) - 允许用不同的颜色高亮某些文本片段（类似notepad++的“Style token”功能）。
-[EasyMotion](https://github.com/tednaleid/sublime-EasyMotion) - 快速跳转到活跃视图可见区域中的任何字符。
-[ZenTabs](https://github.com/travmik/ZenTabs) 和 [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) -提高默认选项卡的外观和文件创建。
-[EncodingHelper](https://github.com/SublimeText/EncodingHelper) - 猜测文件的编码，显示在状态栏上，将各种编码转换为UTF-8。
-[Gist](https://github.com/condemil/Gist) - 用Sublime (ST2)同步GitHub Gist。
-[Clipboard History (ST2)](https://github.com/kemayo/sublime-text-2-clipboard-history) - 保持剪贴板项目的历史。
+- [Sublime SFTP](http://wbond.net/sublime_packages/sftp)
+
+- [CTags](https://github.com/SublimeText/CTags) - CTags支持Sublime.
+- [SideBarEnhancement](https://github.com/titoBouzout/SideBarEnhancements) - 在侧边栏的上下文菜单中有许多附加功能。
+- [ActualVim](https://github.com/lunixbochs/actualvim) - Sublime中的Vim - 集两个最喜欢的编辑器于一体。
+- [SublimeLinter](http://github.com/SublimeLinter/SublimeLinter) - C/C ++，Java，Python，PHP，JS，HTML，CSS等的内联lint高亮。
+- [CSScomb](https://github.com/csscomb/sublime-csscomb) - CSS编码风格格式器。
+- [FixMyJS](https://github.com/jshint/fixmyjs), [Jsfmt](https://github.com/paulirish/sublime-jsfmt) and [JsFormat](https://github.com/jdc0589/JsFormat) - JS / JSON的编码风格格式器。
+- [AStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter) - C / C ++ / C＃/ Java编码风格格式器。
+- [SVG-Snippets](https://github.com/jorgeatgu/SVG-Snippets) - 设置自定义的SVG片段。
+- [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value) - 增加/减少数字，日期，十六进制颜色值，等等。
+- [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - 高亮尾部的空格，并在瞬间将其删除。
+- [Alignment](http://wbond.net/sublime_packages/alignment) - 多行选择和多项选择超简单的对齐。
+- [Placeholders](https://github.com/mrmartineau/Placeholders) - 文字，图片，列表，表格等的片段集合。
+- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) - 快速检测语法。
+- [StylToken](https://github.com/vcharnahrebel/style-token) - 允许用不同的颜色高亮某些文本片段（类似notepad++的“Style token”功能）。
+- [EasyMotion](https://github.com/tednaleid/sublime-EasyMotion) - 快速跳转到活跃视图可见区域中的任何字符。
+- [ZenTabs](https://github.com/travmik/ZenTabs) 和 [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) -提高默认选项卡的外观和文件创建。
+- [EncodingHelper](https://github.com/SublimeText/EncodingHelper) - 猜测文件的编码，显示在状态栏上，将各种编码转换为UTF-8。
+- [Gist](https://github.com/condemil/Gist) - 用Sublime (ST2)同步GitHub Gist。
+- [Clipboard History (ST2)](https://github.com/kemayo/sublime-text-2-clipboard-history) - 保持剪贴板项目的历史。
 
 ## 主题和颜色方案:
 
-[Soda](http://buymeasoda.github.io/soda-theme/)
-[Spacegray](http://kkga.github.io/spacegray/)
-[Flatland](https://github.com/thinkpixellab/flatland)
-[Tomorrow](https://github.com/chriskempson/tomorrow-theme)
-[Base 16](https://github.com/chriskempson/base16)
-[Solarized](http://ethanschoonover.com/solarized)
-[Predawn](https://github.com/jamiewilson/predawn)
-[itg.flat](https://sublime.wbond.net/packages/Theme%20-%20itg.flat)
+- [Soda](http://buymeasoda.github.io/soda-theme/)
+
+- [Spacegray](http://kkga.github.io/spacegray/)
+- [Flatland](https://github.com/thinkpixellab/flatland)
+- [Tomorrow](https://github.com/chriskempson/tomorrow-theme)
+- [Base 16](https://github.com/chriskempson/base16)
+- [Solarized](http://ethanschoonover.com/solarized)
+- [Predawn](https://github.com/jamiewilson/predawn)
+- [itg.flat](https://sublime.wbond.net/packages/Theme%20-%20itg.flat)
+
 适用于所有其他偏好 [Color Schemes](https://github.com/daylerees/colour-schemes) 和[Сolorsublime](http://colorsublime.com/).
 
